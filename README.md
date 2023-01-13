@@ -1,5 +1,5 @@
 # Brain_tumor_detection
-Built a brain tumor detection model using Support Vector Machine Learning Model using a barin MRI images dataset founded on Kaggle.
+Built a brain tumor detection model using Support Vector Machine Learning Model using a brain MRI images dataset founded on Kaggle.
 
 About dataset- https://ieeexplore.ieee.org/abstract/document/5399556/
 
